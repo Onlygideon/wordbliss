@@ -19,7 +19,7 @@ const words = [
  'cruise', 'crash', 'autonomy', 'winter', 'magical', 'experience', 'life', 'happy', 'chronic', 
  'storm', 'crowd', 'swamp', 'respect', 'credit', 'understand', 'earthquake','telepathy', 'communication', 'slippery',
  'dependent', 'silver', 'superficial', 'mandatory', 'inferior', 'hormone', 'photosynthesis', 'synthetic', 'feeble', 'drift',
- 'tide', 'Steer', 'north', 'sigh', 'hallucination', 'imagination', 'reality', 'modern', 'hypocrisy', 'heist', 
+ 'tide', 'steer', 'north', 'sigh', 'hallucination', 'imagination', 'reality', 'modern', 'hypocrisy', 'heist', 
  'mitochondria', 'mitigation', 'irrigation', 'mitosis', 'trenches', 'treacherous', 'disaster', 'novice', 'freedom', 'civilization',
  'population', 'greatness', 'dodge', 'complication', 'rejoice', 'congress'
 ];
