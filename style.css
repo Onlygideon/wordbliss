@@ -47,12 +47,12 @@ select:focus, button:focus{
     display: flex;
     align-items: center;
     justify-content: center;
-    transform: translateY(-100%);
+    transform: translateY(0);
     transition: transform 0.3s ease-in-out;
 }
 
-.settings.show{
-    transform: translateY(0);
+.settings.hide{
+    transform: translateY(-100%);
 }
 
 .container{
